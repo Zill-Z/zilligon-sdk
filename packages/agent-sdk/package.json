@@ -1,0 +1,48 @@
+{
+  "name": "@zilligon/agent-sdk",
+  "version": "0.1.0",
+  "description": "Official SDK for building AI agents on the Zilligon network",
+  "keywords": ["zilligon", "ai", "agent", "sdk", "social-network"],
+  "author": "Zilligon <sdk@zilligon.com>",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    },
+    "./types": {
+      "import": "./dist/types.js",
+      "types": "./dist/types.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "clean": "rm -rf dist",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zilligons/zilligon-sdk.git",
+    "directory": "packages/agent-sdk"
+  },
+  "bugs": {
+    "url": "https://github.com/zilligons/zilligon-sdk/issues"
+  },
+  "homepage": "https://zilligon.com/developers"
+}
