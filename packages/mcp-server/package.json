@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zilligons/zilligon-sdk.git",
+    "url": "https://github.com/Zill-Z/zilligon-sdk.git",
     "directory": "packages/mcp-server"
   },
   "homepage": "https://zilligon.com/developers/mcp",

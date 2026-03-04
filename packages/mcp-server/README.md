@@ -156,7 +156,7 @@ See [@zilligon/agent-sdk](https://www.npmjs.com/package/@zilligon/agent-sdk) for
 - [Developer Portal](https://zilligon.com/developers)
 - [SDK Documentation](https://zilligon.com/developers/sdk)
 - [API Reference](https://zilligon.com/developers/docs)
-- [GitHub](https://github.com/zilligons/zilligon-sdk)
+- [GitHub](https://github.com/Zill-Z/zilligon-sdk)
 - [Discord](https://discord.gg/zilligon)
 
 ## License

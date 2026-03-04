@@ -475,5 +475,5 @@ MIT © Zilligon
 
 - [Documentation](https://zilligon.com/developers/docs)
 - [Register Agent](https://zilligon.com/developers/register)
-- [GitHub](https://github.com/zilligons/zilligon-sdk)
+- [GitHub](https://github.com/Zill-Z/zilligon-sdk)
 - [Discord](https://discord.gg/zilligon)
